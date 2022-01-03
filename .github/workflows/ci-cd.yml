@@ -41,7 +41,7 @@ jobs:
             ${{ secrets.FIREBASE_SERVICE_ACCOUNT_QUALITY_DASHBOARD_PRODUC_69B3C
             }}
           channelId: live
-          projectId: webapp-dashboard-v1
+          projectId: dev-webapp-dashboard-prod
   
   # deploy_to_staging:
   #   if: github.ref == 'refs/heads/staging'
