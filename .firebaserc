@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "dev-webapp-dashboard-prod"
-  }
+    "default": "dev-webapp-dashboard-prod",
+    "staging": "dev-webapp-dashboard-staging"
+  },
+  "targets": {}
 }
